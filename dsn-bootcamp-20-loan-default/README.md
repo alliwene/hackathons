@@ -1,5 +1,5 @@
 # dsn-bootcamp-20-loan-default
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/alliwene/dsn-bootcamp-20-loan-default/blob/master/loan.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/alliwene/dsn-bootcamp-20-loan-default/blob/main/loan.ipynb)
 
  
 My submission for DSN 2020 AI bootcamp hackathon.
